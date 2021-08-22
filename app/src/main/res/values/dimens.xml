@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <dimen name="zipcode_textview">24sp</dimen>
+    <dimen name="ic_location_image_view">40dp</dimen>
+
+
+</resources>
